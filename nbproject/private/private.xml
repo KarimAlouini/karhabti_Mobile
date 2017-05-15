@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/AgenceController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AjouterAvis.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Offre.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/Rechercher.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AfficheOffre.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Session.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Agence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Pack.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/DetailVehicule.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/ClientService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/SignUpForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AfficherCours.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/ListeTaches.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Tache.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/ListeVehicule.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/OffreController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/SignInForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/ProfileForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/Avis_agence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/AvisController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/PackController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/rechercherAgence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/BaseForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/MoniteurService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AcceuilForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/CoursController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/Raiting.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/Type_vService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/CleanModern.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AfficherAvis.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/ModeleService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/ModifierAgence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/entities/User.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/ActivateForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/listeAg.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AfficherPack.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AjouterAgence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AjouterTache.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AfficherAgence.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/uikit/cleanmodern/NewsfeedForm.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/views/AjouterCours.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/piKarhabti/src/com/codename1/controllers/MarqueService.java</file>
+        </group>
+    </open-files>
+</project-private>
